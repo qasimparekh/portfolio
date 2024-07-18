@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Muhammad Qasim is an exceptional web designer. His creative flair and attention to detail bring life to every project he undertakes. Muhammad's ability to blend aesthetics with functionality results in captivating and user-friendly designs. His dedication to understanding client needs and delivering top-notch designs sets him apart. Collaborating with Muhammad has been a pleasure, thanks to his professionalism, reliability, and a keen eye for design trends. I highly recommend Muhammad Qasim for anyone seeking a talented web designer to elevate their online presence",
+    name: "Alex M.",
+    title: "Research Analyst | Content Creator",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Muhammad is a Life Saver!! I struggled for a year in a half with experts that said they were trying to get me where I needed to be! 18 months without a qualified people who could take care of all my website needs and I tried a few. Muhammad has gone above and beyond to make our company stand out. Our updated website and SEO are Amazing. I Have the best Website & Technical Guy on the Platform! I don't only recommend him highly, I put my reputation and name on the line to guarantee your satisfaction. He is THAT GOOD!!!",
+    name: "David B.",
+    title: "Director",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Muhammad Qasim was a delight! He didn't just build a website; he crafted an online masterpiece. Muhammad's touch is pure magic - turning ideas into visuals and making it all user-friendly. Communication was seamless. Muhammad kept me in the loop, responding like a friend on zoom. It felt like a collaboration with someone who genuinely cared.Tech wizardry is in Muhammad's DNA. Responsive design, cool interactive features - he sprinkled serious magic dust. When roadblocks appeared, his problem-solving skills kicked in, finding innovative solutions. Muhammad Qasim isn't just a web developer; he's a web wizard. If you want someone who not only gets the job done but adds that extra touch of brilliance, he's your guy. Cheers to Muhammad and the magic he brings to the web! 🚀",
+    name: "Hafiz Muhammad H.",
+    title: "Project Manager",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I am extremely pleased with the logo designed by Qasim. He captured the essence of my brand perfectly and delivered a design that exceeded my expectations. Qasim was professional, responsive, and a pleasure to work with throughout the process. I highly recommend him for anyone looking for top-notch logo design services!",
+    name: "Jack",
+    title: "",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Muhammad is a great freelancer to work with. Did an excellent job by completing the project on his own even when i was away. Good to had him.",
+    name: "Jax",
+    title: "",
   },
 ];
 
@@ -171,33 +171,47 @@ export const companies = [
 ];
 
 export const workExperience = [
+  // {
+  //   id: 1,
+  //   title: "Frontend Engineer Intern",
+  //   desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+  //   className: "md:col-span-2",
+  //   thumbnail: "/exp1.svg",
+  // },
+  // {
+  //   id: 2,
+  //   title: "Mobile App Dev - JSM Tech",
+  //   desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "/exp2.svg",
+  // },
+  // {
+  //   id: 3,
+  //   title: "Freelance App Dev Project",
+  //   desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "/exp3.svg",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Lead Frontend Developer",
+  //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
+  //   className: "md:col-span-2",
+  //   thumbnail: "/exp4.svg",
+  // },
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Full Stack Web/App Developer",
+    desc: "GlobalTech USA | January 2019 - Present",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/exp4.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
-  {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Graphic Designer",
+    desc: "Hi Sky Solutions | January 2015 - January 2018",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/exp3.svg",
   },
 ];
 
