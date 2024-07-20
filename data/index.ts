@@ -126,6 +126,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/website-builder-qp.vercel.app/editor",
   },
+  {
+    id: 4,
+    title: "Online Code Editor",
+    des: "A codepen clone which could render HTML, CSS & JS into beautiful websites.",
+    img: "/p8.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/online-code-editor-livid.vercel.app",
+  },
 ];
 
 export const testimonials = [
