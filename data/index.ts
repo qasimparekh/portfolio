@@ -283,10 +283,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/qasimparekh"
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/upwork.svg",
+    url: "https://www.upwork.com/freelancers/~01015c2a1ac2704e6e"
   },
   {
     id: 3,
