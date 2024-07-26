@@ -202,6 +202,7 @@ export const testimonials = [
       "Muhammad is a great freelancer to work with. Did an excellent job by completing the project on his own even when i was away. Good to had him.",
     name: "Jax",
     title: "",
+    image: "profile.svg",
   },
 ];
 
