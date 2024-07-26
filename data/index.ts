@@ -287,11 +287,11 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/upwork.svg",
+    img: "/upwork.png",
     url: "https://www.upwork.com/freelancers/~01015c2a1ac2704e6e"
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/freelancer.svg",
   },
 ];
