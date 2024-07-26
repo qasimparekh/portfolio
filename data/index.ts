@@ -108,7 +108,7 @@ export const projects = [
     des: "A CRM for a construction conpany to manage their projects with an app for vendors.",
     img: "/venus1.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "#",
+    link: "/venussc.com",
   },
   {
     id: 2,
@@ -116,7 +116,7 @@ export const projects = [
     des: "A child management system to manage attendance & fees of children in daycare.",
     img: "/kids1.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "#",
+    link: "/kidsinkare.com",
   },
   {
     id: 3,
@@ -124,7 +124,7 @@ export const projects = [
     des: "A detailed website for daycare with a child management system integrated for ease.",
     img: "/candy1.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "#",
+    link: "/thecandylanddaycare.com/",
   },
   {
     id: 4,
@@ -132,7 +132,7 @@ export const projects = [
     des: "A website to showcase a construction company with a dashboard to manage their logistics.",
     img: "/arham1.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "#",
+    link: "/www.arhambuilders.net",
   },
   {
     id: 5,
