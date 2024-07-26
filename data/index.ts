@@ -293,5 +293,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/freelancer.svg",
+    url: "https://youtube.com"
   },
 ];
