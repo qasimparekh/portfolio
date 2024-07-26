@@ -174,24 +174,28 @@ export const testimonials = [
       "Muhammad Qasim is an exceptional web designer. His creative flair and attention to detail bring life to every project he undertakes. Muhammad's ability to blend aesthetics with functionality results in captivating and user-friendly designs. His dedication to understanding client needs and delivering top-notch designs sets him apart. Collaborating with Muhammad has been a pleasure, thanks to his professionalism, reliability, and a keen eye for design trends. I highly recommend Muhammad Qasim for anyone seeking a talented web designer to elevate their online presence",
     name: "Alex M.",
     title: "Research Analyst | Content Creator",
+    image: "profile1.svg",
   },
   {
     quote:
       "Muhammad is a Life Saver!! I struggled for a year in a half with experts that said they were trying to get me where I needed to be! 18 months without a qualified people who could take care of all my website needs and I tried a few. Muhammad has gone above and beyond to make our company stand out. Our updated website and SEO are Amazing. I Have the best Website & Technical Guy on the Platform! I don't only recommend him highly, I put my reputation and name on the line to guarantee your satisfaction. He is THAT GOOD!!!",
     name: "David B.",
     title: "Director",
+    image: "profile2.svg",
   },
   {
     quote:
       "Working with Muhammad Qasim was a delight! He didn't just build a website; he crafted an online masterpiece. Muhammad's touch is pure magic - turning ideas into visuals and making it all user-friendly. Communication was seamless. Muhammad kept me in the loop, responding like a friend on zoom. It felt like a collaboration with someone who genuinely cared.Tech wizardry is in Muhammad's DNA. Responsive design, cool interactive features - he sprinkled serious magic dust. When roadblocks appeared, his problem-solving skills kicked in, finding innovative solutions. Muhammad Qasim isn't just a web developer; he's a web wizard. If you want someone who not only gets the job done but adds that extra touch of brilliance, he's your guy. Cheers to Muhammad and the magic he brings to the web! 🚀",
     name: "Hafiz Muhammad H.",
     title: "Project Manager",
+    image: "profile3.svg",
   },
   {
     quote:
       "I am extremely pleased with the logo designed by Qasim. He captured the essence of my brand perfectly and delivered a design that exceeded my expectations. Qasim was professional, responsive, and a pleasure to work with throughout the process. I highly recommend him for anyone looking for top-notch logo design services!",
     name: "Jack",
     title: "",
+    image: "profile4.svg",
   },
   {
     quote:
